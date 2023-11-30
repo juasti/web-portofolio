@@ -1,0 +1,51 @@
+.profile
+{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  margin-top:200px;
+}
+.profileimage
+{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.profile h2
+{
+  transform: translatey(10px);
+}
+.profile h6
+{
+margin-bottom: 140px;
+}
+.biodata
+{
+  color:#fff;
+  background-color:#000b76;
+}
+.col 
+{
+  margin-top:90px;
+  margin-bottom: 250px;
+}
+.experience
+{
+  padding-top: 26px;
+  margin-bottom: 70px;
+}
+.footer
+{
+padding-top:200px ;
+margin-bottom:300px;
+}
+.experience h2
+{
+  margin-top:20px;
+}
+.experience p
+{
+  margin-top:20px ;
+  margin-bottom: 20px;
+}
